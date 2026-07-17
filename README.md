@@ -1,2 +1,2 @@
 # postgres-cron
-PostgresSQL container with pg_cron
+PostgreSQL + pg_cron
